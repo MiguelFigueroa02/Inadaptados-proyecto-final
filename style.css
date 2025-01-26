@@ -9,7 +9,7 @@ body{
 }
 /*Toda la parte superior*/
 .encabezado{
-    background-image: url(./img/inicio.gif);
+    background-image: url(/img/inicio.gif);
     background-size: cover;
     background-position: center;
     padding: 0;
