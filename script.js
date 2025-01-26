@@ -9,14 +9,14 @@ window.onscroll = function() {
             menuLetter.classList.add('color-a-fin');
         });
         menuFondo.classList.add('color-fondo');
-        logo.src = "/img/vv-logo-cafe.png";
+        logo.src = "./img/vv-logo-cafe.png";
     } else {
         // Restaurar clases originales
         menuLetters.forEach(menuLetter => {
             menuLetter.classList.remove('color-a-fin');
         });
         menuFondo.classList.remove('color-fondo');
-        logo.src = "/img/vv-logo.png";
+        logo.src = "./img/vv-logo.png";
     }
 };
 var splide = new Splide( '#galeria-destinos', {
