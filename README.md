@@ -10,7 +10,7 @@ Se comparte dicho proyecto como evidencia del proyecto final y del aprendizaje o
 
 <h3> Agradecimientos :gift:</h3>
 Al equipo de Inadaptados todo el proceso de capacitación y enseñanza impartidos durante el periodo de Noviembre a Diciembre del 2024.
-Al Gobierno del estado de Aguascalientes por otorgarme la beca de **Gigantes del Futuro** por medio del INCYTEA.
+Al Gobierno del estado de Aguascalientes por otorgarme la beca de Gigantes del Futuro por medio del INCYTEA.
 
 <h3 align="left"> Contrucción :wrench:</h3>
 <li>Visual Studio Code.</li>
