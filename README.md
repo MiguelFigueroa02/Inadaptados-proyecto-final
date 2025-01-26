@@ -1,11 +1,11 @@
-![Bootcamp programación](https://github.com/user-attachments/assets/86b02a34-ba3d-452a-a634-2f6e2bb4616b)
- 
+ ![coding](https://github.com/user-attachments/assets/829ec4e8-98fe-4fe8-8822-68b0479baf8d)
+
 <h1 align="center">Inadaptados, proyecto final de bootcamp 🦙</h1>
 <h6 align="center">:white_check_mark: Finalizado:white_check_mark:</h6>
 
 A continuación, comparto el proyecto generado durante el bootcamp de Inadaptados, en donde aplicamos los conocimientos de HTML, CSS Y Javascript para el desarrollo front end de la página de Vida Vacations.
 <br>
-Se comparte dicho proyecto como evidencia del proyecto final y del aprendizaje obtenido de manera inicial en el camino de la programación Web.
+Se comparte dicho proyecto como evidencia del proyecto final y del aprendizaje obtenido de manera inicial en el camino de la programación Web. Entiendo que en esta versión preliminar pueda encontrar mejoras que se le pudieran realizar tanto en estructura como en funcionalidad, pero quise compartir el producto generado desde cero en base a los conocimientos obtenidos en un mes de curso.
 
 
 <h3> Agradecimientos :gift:</h3>
